@@ -2,10 +2,15 @@
     "name": "whats-that-slang",
     "displayName": "whats-that-slang",
     "description": "Snippets for the modern 1337 world",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "publisher": "Akash",
     "engines": {
         "vscode": "^1.28.0"
+    },
+    "icon": "pepe.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skywalker212/whats-that-slang.git"
     },
     "categories": [
         "Snippets"

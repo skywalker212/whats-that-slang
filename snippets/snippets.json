@@ -221,9 +221,244 @@
         "body":["Get the fuck out"],
         "description":"It is used to express indignation, usually towards stupidity, incompetence, or both. It can be used in response to something that is unwelcome."
     },
-    "":{
-        "prefix":"",
-        "body":[""],
-        "description":""
+    "Guys":{
+        "prefix":"guiz",
+        "body":["Guys"],
+        "description":"Guiz is another way of saying guys.I mean,guys is soooo mundane.So guiz is to brighten the word."
+    },
+    "How 'bout you?":{
+        "prefix":"hbu",
+        "body":["How 'bout you?"],
+        "description":"An acronym meaning How aBout yoU. The acronym originated in early 2004 during a conversation on AOL Instant Messenger and was created by Ben Math."
+    },
+    "How are you?":{
+        "prefix":"hru",
+        "body":["How are you?"],
+        "description":"used by the illiterate Internet masses."
+    },
+    "I am not a doctor, but...":{
+        "prefix":"ianadb",
+        "body":["I am not a doctor, but..."],
+        "description":"Random shiz"
+    },
+    "I don't care":{
+        "prefix":"idc",
+        "body":["I don't care"],
+        "description":"Extremely bitchy because it implies that the person doesn't even care enough to type three words."
+    },
+    "I don't give a fuck":{
+        "prefix":"idgaf",
+        "body":["I don't give a fuck"],
+        "description":"something to say when someone is bugging you about something you don't care."
+    },
+    "I don't (fucking/even) know":{
+        "prefix":"idk",
+        "body":["I don't (fucking/even) know"],
+        "description":"A mysterious abbreviation. No one actually seems to know what it means."
+    },
+    "If I recall correctly":{
+        "prefix":"iirc",
+        "body":["If I recall correctly"],
+        "description":"Especially common to be used when trying to cover up a vague guess, or when you are truly befuddled and trying to recall a fact of some sort."
+    },
+    "I know":{
+        "prefix":"ik",
+        "body":["I know"],
+        "description":"I know. I know. I know."
+    },
+    "I know, right?":{
+        "prefix":"ikr",
+        "body":["I know, right?"],
+        "description":" the rhetorical response to any statement of undeniable truth. Used in IM or text based conversations (also, \"IK,R?\") and NEVER acceptable as spoken aloud (eye kay are.)"
+    },
+    "In real life":{
+        "prefix":"irl",
+        "body":["In real life"],
+        "description":"Often used in internet chat rooms to let people you are talking about something in the real world and not in the internet world. Also can be used to differentiate between an actor/actress and the character they play."
+    },
+    "Just kidding":{
+        "prefix":"jk",
+        "body":["Just kidding"],
+        "description":"What people use to say crap about you to you in your face and mean it but not be a complete jerk directly to you, but still are. "
+    },
+    "Okay":{
+        "prefix":"k",
+        "body":["Okay"],
+        "description":"The letter people text you when they don't want to talk to you anymore."
+    },
+    "Later":{
+        "prefix":"l8r",
+        "body":["Later"],
+        "description":"a shorter term for later. used in chat rooms by faggots who think they're cool"
+    },
+    "elite":{
+        "prefix":"leet",
+        "body":["elite"],
+        "description":"A derivitave of the 80's software piracy scene. Originally \"elite\" was used to show status on a BBS. Commonly the people who cracked the software, or had sysop access on a board would be referred to as Elite. Later it became common to just use \"leet.\" With the internet explosion it was later used to describe hackers as well as crackers. Due to it being great to be known as leet, newbies started adopting the term and using to describe themselves, often with numerical variations. Anyone who considers themselves \"leet\" should be able to tell you who/what Razor1911 is, anyone failing to answer this question should be laughed at."
+    },
+    "Laughing my ass off":{
+        "prefix":"lmao",
+        "body":["Laughing my ass off"],
+        "description":"Somehow LMAO has gone from \"Laughing My Ass Off\" to a shorthand way of saying \"Wow everything is so overwhelming and I just want to die.\""
+    },
+    "Laughing out loud":{
+        "prefix":"lol",
+        "body":["Laughing out loud"],
+        "description":"It's original definition was \"Laughing out loud\" (also written occasionally as \"Lots of Laughs\"), used as a brief acronym to denote great amusement in chat conversations. Now, it is overused to the point where nobody laughs out loud when they say it. In fact, they probably don't even give a shit about what you just wrote. More accurately, the acronym \"lol\" should be redefined as \"Lack of laughter.\""
+    },
+    "Life Pro Tip":{
+        "prefix":"lpt",
+        "body":["Life Pro Tip"],
+        "description":"Life Pro Tips. Used in social media to tag a post as advice-giving or to share little known knowledge about the world."
+    },
+    "Mate":{
+        "prefix":"m8",
+        "body":["Mate"],
+        "description":"shorter way to say mate, especially over the internet."
+    },
+    "My feeling when":{
+        "prefix":"mfw",
+        "body":["My face when"],
+        "description":"Started as a way to respond to posts that a poster usually disagrees with in some manner, and is typically done to mock or troll said poster."
+    },
+    "My reaction when":{
+        "prefix":"mrw",
+        "body":["My reaction when"],
+        "description":"duh"
+    },
+    "Weaken":{
+        "prefix":"nerf",
+        "body":["Weaken"],
+        "description":"To make worse or weaken, usually in the context of weakening something in order to balance out a game."
+    },
+    "Not much":{
+        "prefix":"nm",
+        "body":["Not much"],
+        "description":"perfect way of killing a conversation."
+    },
+    "newbie":{
+        "prefix":"noob",
+        "body":["newbie"],
+        "description":"Contrary to the belief of many, a noob/n00b and a newbie/newb are not the same thing. Newbs are those who are new to some task* and are very beginner at it, possibly a little overconfident about it, but they are willing to learn and fix their errors to move out of that stage. n00bs, on the other hand, know little and have no will to learn any more. They expect people to do the work for them and then expect to get praised about it, and make up a unique species of their own. It is the latter we will study in this guide so that the reader is prepared to encounter them in the wild if needed. "
+    },
+    "Never mind":{
+        "prefix":"nvm",
+        "body":["Never mind"],
+        "description":"You were too stupid to understand what I was talking about so I gave up"
+    },
+    "Of course":{
+        "prefix":"ofc",
+        "body":["Of course"],
+        "description":"Used in instant messaging to represent 'Of course'"
+    },
+    "Oh my god":{
+        "prefix":"omg",
+        "body":["Oh my god"],
+        "description":"Most commonly used by teenage girls who find it depressingly hard to type out an entire word. Reinforces assumptions that humans seem to be getting dumber from generation to generation."
+    },
+    "On my way":{
+        "prefix":"omw",
+        "body":["On my way"],
+        "description":"What to text your friend when you are leaving your house to go to their house so they will be ready when you get there. "
+    },
+    "Overpowered":{
+        "prefix":"op",
+        "body":["Overpowered"],
+        "description":"usually in a video game, in which a person or group becomes or is too powerful; has become very popular in the mmorpg crowd"
+    },
+    "Original post(er)":{
+        "prefix":"OP",
+        "body":["Original post(er)"],
+        "description":"in forum-style collection of comment; the first person to comment or POST"
+    },
+    "Please":{
+        "prefix":"plz",
+        "body":["Please"],
+        "description":"A word used by n00bs, often used to obtain free stuff."
+    },
+    "Powned":{
+        "prefix":"pwned",
+        "body":["Powned"],
+        "description":"This originated in an online game called Warcraft, where a map designer misspelled \"owned.\" When the computer beat a player, it was supposed to say, so-and-so \"has been owned.\" "
+    },
+    "Wrecked":{
+        "prefix":"rekt",
+        "body":["Wrecked"],
+        "description":"The MLG OG Hardcore Snoop Dog 420 Blaze it Faze Clan way of saying Wrecked"
+    },
+    "Rolling on floor laughing":{
+        "prefix":"rofl",
+        "body":["Rolling on floor laughing"],
+        "description":"ROFL is an internet accronmym for Rolling On Floor Laughing, and like all things internet it has adapted to nerd culture and has taken on new real-life use, though usually in a satirical way. "
+    },
+    "shaking my head":{
+        "prefix":"smh",
+        "body":["shaking my head"],
+        "description":"smh is typically used when something is obvious, plain old stupid, or disappointment."
+    },
+    "Coolness ":{
+        "prefix":"swag",
+        "body":["Coolness "],
+        "description":"Said previous generations acronym to make fun of the new phenomenon. S.W.A.G \"Secretly We Are Gay\""
+    },
+    "To be honest":{
+        "prefix":"tbh",
+        "body":["To be honest"],
+        "description":"Tbh means to be honest. However, most people use it to flirt with other people or find someone to cheat with."
+    },
+    "Throwback to":{
+        "prefix":"tbt",
+        "body":["Throwback to"],
+        "description":"Originally \"throwback Thursday\" but now often used on other days. Can now stand for \"throwback to\" to indicate an old photo, thought, idea, etc. Often used in social media to reminisce, as usually social media is supposed to show the \"here/now/recently.\""
+    },
+    "Today I fucked up":{
+        "prefix":"tifu",
+        "body":["Today I fucked up"],
+        "description":"An acronym originating from Reddit, TIFU stands for Today I Fucked Up."
+    },
+    "the fuck?":{
+        "prefix":"tf",
+        "body":["the fuck?"],
+        "description":"The Fuck. Most commonly used as a shortened WTF. However, TF is used in instances when WTF takes too long to be said. TF is also used in a more exclamatory sort of phrasing."
+    },
+    "That feeling when":{
+        "prefix":"tfw",
+        "body":["That feeling when"],
+        "description":"Used to describe a particularly emotionally charged experience, whether positive or negative."
+    },
+    "Thanks":{
+        "prefix":"thx",
+        "body":["Thanks"],
+        "description":"wen ur 2 lazy to spel thanks"
+    },
+    "Today I learned":{
+        "prefix":"til",
+        "body":["Today I learned"],
+        "description":"Often used as a space saver on websites such as Reddit or DIGG when writing the titles of links to interesting things the submitter has learned that day."
+    },
+    "Too long; didn't read":{
+        "prefix":"tl;dr",
+        "body":["Too long; didn't read"],
+        "description":"Used in reply to a post and/or comment or other written material that dragged on way too long about things that weren't very important."
+    },
+    "What the fuck":{
+        "prefix":"wtf",
+        "body":["What the fuck"],
+        "description":"An acronym puritan parents like to text to their well-mannered teenagers"
+    },
+    "Way to go":{
+        "prefix":"wtg",
+        "body":["Way to go"],
+        "description":"in way to go, you mean it, but when saying wow that's great, it is sarcastic."
+    },
+    "You only live once":{
+        "prefix":"yolo",
+        "body":["You only live once"],
+        "description":"An overused acronym for \"You only live once.\" There is an exception for those who believe in reincarnation or are cats."
+    },
+    "hold":{
+        "prefix":"hodl",
+        "body":["hold"],
+        "description":"An enthusiastic misspelling of Hold, prompting bitcoin users to avoid the temptation of selling off their coins once price starts rising."
     }
 }
