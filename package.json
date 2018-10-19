@@ -1,0 +1,21 @@
+{
+    "name": "whats-that-slang",
+    "displayName": "whats-that-slang",
+    "description": "Snippets for the modern 1337 world",
+    "version": "0.0.1",
+    "publisher": "Akash",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
