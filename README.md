@@ -1,6 +1,6 @@
-# whats-that-slang README
+# whats-that-slang
 
-This is the README for your extension "whats-that-slang". After writing up a brief description, we recommend including the following sections.
+When you want to include the modern world slangs in your project, this extension will keep you updated.
 
 ## Features
 

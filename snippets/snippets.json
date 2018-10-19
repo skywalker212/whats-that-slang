@@ -1,1 +1,229 @@
-{}
+{
+    "Too cool for you":{
+        "prefix": "2cool4u",
+        "body":[
+            "Too cool for you"
+        ],
+        "description":"when someone is 2 cool 4 u meaning they r cooler than you"
+    },
+    "Sarcasm":{
+        "prefix":"/S",
+        "body":["Sarcasm"],
+        "description":"When you are feelin utterly sarcastic, drop this bomb"
+    },
+    "Marijuana":{
+        "prefix":"420",
+        "body":["Marijuana"],
+        "description":"Common misconceptions point to crazy theories about weed but the truth is it is actuly a number between 419 and 421."
+    },
+    "As far as I know":{
+        "prefix":"afaik",
+        "body":["As far as I know"],
+        "description":"When will the page be back?\nafaik in 2 hours"
+    },
+    "Away from keyboard":{
+        "prefix":"afk",
+        "body":["Away from keyboard"],
+        "description":"Often used in online gaming when someone is not moving they are assumed to be afk."
+    },
+    "Age/sex/location":{
+        "prefix":"asl",
+        "body":["Age/sex/location"],
+        "description":"Used by the 10,000 horny teenage boys on omegle to find the 50 horny teenage girls on omegle."
+    },
+    "At the moment":{
+        "prefix":"atm",
+        "body":["At the moment"],
+        "description":"Either at the moment, or those ATM machines in banks that you withdraw your money from."
+    },
+    "All the way":{
+        "prefix":"atw",
+        "body":["All the way"],
+        "description":"ATW sometimes written or spelled out \"All The Way!\" is a motivational phrase, expression or motto often used in the Special Operations and Airborne Community."
+    },
+    "hey":{
+        "prefix":"ayy",
+        "body":["hey"],
+        "description":"\"Ayy\" is an expression of greeting, most likely coming from the word \"hey\". It is mostly used in ghetto culture, or by people high on marijuana, and can also be used as an insult or mockery."
+    },
+    "babe":{
+        "prefix":"bae",
+        "body":["babe"],
+        "description":"AAVE (African-American Vernacular English) pronunciation of \"babe,\" used as a term of endearment toward loved ones. \"Bae\" can be a pronoun or an adjective. The term caught fire to mainstream colloquial Standard American English jargon and, due to unfamiliarity with its origins, developed multiple definitions. Trolls and people who dislike its use will often incorrectly juxtapose \"bae\" with Danish \"bæ\" which means \"poop\" (often to shut people up). Others will treat it as an acronym such as \"before anyone else.\" The term is frowned upon by many, as it is seen as ghetto and uncouth, although its origins are simply dialectal."
+    },
+    "baby":{
+        "prefix":"bb",
+        "body":["baby"],
+        "description":"Short for \"baby\", used by men on cam websites when their right hand is too busy to reach for the Y key."
+    },
+    "Be back in a bit":{
+        "prefix":"bbiab",
+        "body":["Be back in a bit"],
+        "description":"BBIAB has a similar meaning to BRB. Mostly used when talking online, and you need to do or check something."
+    },
+    "Be back later":{
+        "prefix":"bbl",
+        "body":["Be back later"],
+        "description":" used in instead messaging talk. Gives a way out of the conversation for the person using it and makes the boring person receiving it feel sad."
+    },
+    "Be back soon":{
+        "prefix":"bbs",
+        "body":["Be back soon"],
+        "description":"Be back soon or Big Butt Syndrome"
+    },
+    "Because":{
+        "prefix":"bc",
+        "body":["Because"],
+        "description":"bc is an abbreviation for the word because. it's used in msn and in short hand."
+    },
+    "Boyfriend":{
+        "prefix":"bf",
+        "body":["Boyfriend"],
+        "description":"boyfriend, male romantic companion, male partner, male chum"
+    },
+    "Best friends forever":{
+        "prefix":"bff",
+        "body":["Best friends forever"],
+        "description":"Stands for Best Friends Forever. An abbreviation mostly written on binders or notes by girls in grade school, however, over the last few years, people who use to use the term in grade school have actually started saying it, typically in a joking manner, to mean a close relationship with someone."
+    },
+    "Break":{
+        "prefix":"bork",
+        "body":["Break"],
+        "description":"To Bork is to break in almost any way. can be used to completely replace \"break\" esp. pertains to rendering software done (aka borked, broken) or completely unusable, similar to bricking as well..."
+    },
+    "Be right back":{
+        "prefix":"brb",
+        "body":["Be right back"],
+        "description":"\"Be right back.\" No longer taken literally, people just say it when they are going to be gone for any amount of time, whether it be 20 seconds or 20 minutes."
+    },
+    "By the way":{
+        "prefix":"btw",
+        "body":["By the way"],
+        "description":"Common internet catch anagram meaning \"by the way\". Some have said it really means \"back to work\", but I think they are dumbasses."
+    },
+    "Can't be arsed":{
+        "prefix":"",
+        "body":["Can't be arsed"],
+        "description":"used when you really cant be bothered to do something proposed to you. also a foolproof excuse to get you out of any social event you really dont want to attend."
+    },
+    "Conversation":{
+        "prefix":"convo",
+        "body":["Conversation"],
+        "description":"An abbreviation for the word conversation. To exchange thoughts with another person."
+    },
+    "See ya":{
+        "prefix":"cya",
+        "body":["See ya"],
+        "description":"cya is just short for, \"see you\" often used on the internet when saying goodbye"
+    },
+    "See you":{
+        "prefix":"cu",
+        "body":["See you"],
+        "description":"Also brazilian word for butt"
+    },
+    "cool":{
+        "prefix":"dank",
+        "body":["cool"],
+        "description":"Dank is used for almost anything these days....like weed and a way of saying lit. What dank actually means is unpleasantly damp and cold."
+    },
+    "Disconnect(ed)":{
+        "prefix":"dc",
+        "body":["Disconnect(ed)"],
+        "description":"dc means disconnected. When you use dial-up and you get disconnected you can tell someone that you got disconnected by saying dc"
+    },
+    "them (those) feelings":{
+        "prefix":"dem feels",
+        "body":["them (those) feelings"],
+        "description":"often used in the context of something that involves a large amount of emotional involvement or response, such as a particularly dramatic television show, movie, book, or real-life event; and the sharing or accepting of those emotions."
+    },
+    "Don't worry":{
+        "prefix":"dw",
+        "body":["Don't worry"],
+        "description":"dw is a short slang word used when texting or when writing in slang it means = don't worry"
+    },
+    "End-to-end [encryption]":{
+        "prefix":"e2e",
+        "body":["End-to-end"],
+        "description":"For nerds"
+    },
+    "Fuck my life":{
+        "prefix":"fml",
+        "body":["Fuck my life"],
+        "description":"Back in the 17th Century, lighthouse keepers were tthe butt of everyone's jokes. When a lighthouse keeper was made fun of, his retort would be \"why dont you fix my lighthouse!\" which was shortened over time to FML. This term was made famous in the great battle of the Sole Bay in 1902 where 14 peolpe died and 1 person broke their glasses."
+    },
+    "Fear of missing out":{
+        "prefix":"fomo",
+        "body":["Fear of missing out"],
+        "description":"The intensely annoying act of being psychologically and physically compelled to open social networking or email applications at innoppropriate times. Significantly the FOMO phenomena generally occurs during mid-conversation with friends and loved ones, usually resulting in the individual/s involved in the conversation, that are not afflicted with FOMO, experiencing isolated incidents of intense rage."
+    },
+    "Fixed that for you":{
+        "prefix":"ftfy",
+        "body":["Fixed that for you"],
+        "description":"Often used sarcastically - not to fix an honest mistake, but to sarcastically disagree with someone."
+    },
+    "For the lose":{
+        "prefix":"ftl",
+        "body":["For the lose"],
+        "description":"You say it when your team is about to lose, because you got paired with grab-asses."
+    },
+    "For the win":{
+        "prefix":"ftw",
+        "body":["For the win"],
+        "description":"An enthusiastic emphasis to the end of a comment, message, or post. Sometimes genuine, but often sarcastic."
+    },
+    "For what it's worth":{
+        "prefix":"fwiw",
+        "body":["For what it's worth"],
+        "description":"FWIW, the Supra was the best sports car Toyota ever made."
+    },
+    "For your information":{
+        "prefix":"fyi",
+        "body":["For your information"],
+        "description":"An e-mail may be forwarded and in the content you can write \"FYI\" and the reader should then scroll down to read the remainder of the e-mail."
+    },
+    "Got to go":{
+        "prefix":"gtg",
+        "body":["Got to go"],
+        "description":"Can mean leaving or having to go. In military slang it is similar to acknowledged."
+    },
+    "Good for you":{
+        "prefix":"g4u",
+        "body":["Good for you"],
+        "description":"When someone is bragging about something, G4U is used so you don't have to say, \"good for you,\" which can make it sound like you don't care depending on the situation."
+    },
+    "Girlfriend":{
+        "prefix":"gf",
+        "body":["Girlfriend"],
+        "description":"George Foreman (Grill) \n So I come home tonight after a night out and in my kitchen, I catch my father redhanded with his meat in my GF. I was pissed and told him to take his meat out of my GF and get out. I just couldn't get over it and kicked the GF to the curb."
+    },
+    "Good game":{
+        "prefix":"gg",
+        "body":["Good game"],
+        "description":"A polite remark uttered after the end of a round, game, or other measured interval to indicate that a match was fair and enjoyable. Usually uttered collectively by the occupants of a game server. The opposite of wordBG/word"
+    },
+    "Get on my level":{
+        "prefix":"goml",
+        "body":["Get on my level"],
+        "description":"a demand/request for an individual to get on one's level."
+    },
+    "Great":{
+        "prefix":"gr8",
+        "body":["Great"],
+        "description":"Geeky way of typing \"great\"!"
+    },
+    "Congratulations":{
+        "prefix":"gratz",
+        "body":["Congratulations"],
+        "description":"a shorthand version of Contgratulations, often shortened to grtz, gtz, or even gz"
+    },
+    "Get the fuck out":{
+        "prefix":"gtfo",
+        "body":["Get the fuck out"],
+        "description":"It is used to express indignation, usually towards stupidity, incompetence, or both. It can be used in response to something that is unwelcome."
+    },
+    "":{
+        "prefix":"",
+        "body":[""],
+        "description":""
+    }
+}
